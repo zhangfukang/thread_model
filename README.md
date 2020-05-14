@@ -1,2 +1,2 @@
 # thread_model
- Mock Java JNI aa 
+ Mock Java JNI 
